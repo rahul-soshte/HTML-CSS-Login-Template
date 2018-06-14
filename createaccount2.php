@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>EMI Pay</title>
+<title>Login and SignUp Template</title>
 <link rel="stylesheet" type="text/css" href="css/createaccount.css">
 </head>
 <body>
