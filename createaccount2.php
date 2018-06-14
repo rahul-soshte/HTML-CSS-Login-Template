@@ -16,6 +16,5 @@
     </form>
   </div>
 </div>
-</body>
-</script> 
+</body> 
 </html>
